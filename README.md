@@ -3,7 +3,7 @@ ikSlider Widget for Yii2
 ikSlider Widget for Yii2
 
 Installation
-------------
+----------------
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
