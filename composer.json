@@ -17,5 +17,12 @@
         "psr-4": {
             "dodi\\ikslider\\": ""
         }
-    }
+    },
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/dodi111/yii2-ikslider"
+		}
+
+	]
 }

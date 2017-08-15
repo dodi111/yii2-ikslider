@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \dodi\ikslider\AutoloadExample::widget(); ?>```
+<?= \dodi\ikslider\IkSlider::widget(); ?>```
